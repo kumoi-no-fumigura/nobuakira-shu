@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 148,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-nobuakira-0001",
@@ -2116,7 +2119,7 @@
   "blocks": 148,
   "chars": 3453,
   "poems": 148,
-  "yaku": 0,
+  "yaku": 148,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T21:42:33+09:00"
